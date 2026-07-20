@@ -1,0 +1,19 @@
+# Secrets and local configuration. Never commit these.
+.env
+.env.*
+
+# Foundry build artifacts and transaction logs.
+# cache/ contains files Foundry labels "sensitive values".
+cache/
+out/
+broadcast/
+
+# Dependencies. Install with forge install; see README.
+lib/
+
+# Artwork staging. Pieces are published onchain, not in this repository.
+art/
+
+# Local scratch.
+*.log
+recovery.json
