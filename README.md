@@ -2,7 +2,7 @@
 
 Aught Naughts is a fully onchain 1/1 art practice on Ethereum. Each piece is an
 ERC-721 token whose image, metadata, and primary auction live entirely in the
-contract. The system has no dependency on IPFS, Arweave, or any server.
+contract. The system has no external dependencies.
 
 - Contract: [`0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893`](https://etherscan.io/address/0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893#code) (Ethereum mainnet, verified)
 - Collection: [OpenSea](https://opensea.io/assets/ethereum/0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893/1)
